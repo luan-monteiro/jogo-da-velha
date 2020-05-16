@@ -169,8 +169,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e76dadda9b63e2b45a8803fc77f92228, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bolinha: {fileID: 9045584579708089126, guid: 13db133edb7b96c46a22392d35a0b77e, type: 3}
-  xis: {fileID: 857959942428899615, guid: bc6f9f29bfaeaee48a20d94a6f1eff7d, type: 3}
+  bolinha: {fileID: 1556226269620307246, guid: 1f23f9f2cbb8e9c47897c628eaa9849d, type: 3}
+  xis: {fileID: 1249158559975872591, guid: 1aac71df5805c864bb1823d5ab0d2a81, type: 3}
   game_controller: {fileID: 1959084804}
   parent_bolinha_and_xis: {fileID: 1820117749}
   x_turn: 1
@@ -273,7 +273,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
   m_AnchoredPosition: {x: 3, y: -59}
-  m_SizeDelta: {x: 300, y: 60}
+  m_SizeDelta: {x: 400, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &271987741
 MonoBehaviour:
@@ -579,8 +579,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e76dadda9b63e2b45a8803fc77f92228, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bolinha: {fileID: 9045584579708089126, guid: 13db133edb7b96c46a22392d35a0b77e, type: 3}
-  xis: {fileID: 857959942428899615, guid: bc6f9f29bfaeaee48a20d94a6f1eff7d, type: 3}
+  bolinha: {fileID: 1556226269620307246, guid: 1f23f9f2cbb8e9c47897c628eaa9849d, type: 3}
+  xis: {fileID: 1249158559975872591, guid: 1aac71df5805c864bb1823d5ab0d2a81, type: 3}
   game_controller: {fileID: 1959084804}
   parent_bolinha_and_xis: {fileID: 1820117749}
   x_turn: 1
@@ -810,8 +810,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e76dadda9b63e2b45a8803fc77f92228, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bolinha: {fileID: 9045584579708089126, guid: 13db133edb7b96c46a22392d35a0b77e, type: 3}
-  xis: {fileID: 857959942428899615, guid: bc6f9f29bfaeaee48a20d94a6f1eff7d, type: 3}
+  bolinha: {fileID: 1556226269620307246, guid: 1f23f9f2cbb8e9c47897c628eaa9849d, type: 3}
+  xis: {fileID: 1249158559975872591, guid: 1aac71df5805c864bb1823d5ab0d2a81, type: 3}
   game_controller: {fileID: 1959084804}
   parent_bolinha_and_xis: {fileID: 1820117749}
   x_turn: 1
@@ -1024,8 +1024,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e76dadda9b63e2b45a8803fc77f92228, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bolinha: {fileID: 9045584579708089126, guid: 13db133edb7b96c46a22392d35a0b77e, type: 3}
-  xis: {fileID: 857959942428899615, guid: bc6f9f29bfaeaee48a20d94a6f1eff7d, type: 3}
+  bolinha: {fileID: 1556226269620307246, guid: 1f23f9f2cbb8e9c47897c628eaa9849d, type: 3}
+  xis: {fileID: 1249158559975872591, guid: 1aac71df5805c864bb1823d5ab0d2a81, type: 3}
   game_controller: {fileID: 1959084804}
   parent_bolinha_and_xis: {fileID: 1820117749}
   x_turn: 1
@@ -1150,8 +1150,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e76dadda9b63e2b45a8803fc77f92228, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bolinha: {fileID: 9045584579708089126, guid: 13db133edb7b96c46a22392d35a0b77e, type: 3}
-  xis: {fileID: 857959942428899615, guid: bc6f9f29bfaeaee48a20d94a6f1eff7d, type: 3}
+  bolinha: {fileID: 1556226269620307246, guid: 1f23f9f2cbb8e9c47897c628eaa9849d, type: 3}
+  xis: {fileID: 1249158559975872591, guid: 1aac71df5805c864bb1823d5ab0d2a81, type: 3}
   game_controller: {fileID: 1959084804}
   parent_bolinha_and_xis: {fileID: 1820117749}
   x_turn: 1
@@ -1541,8 +1541,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e76dadda9b63e2b45a8803fc77f92228, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bolinha: {fileID: 9045584579708089126, guid: 13db133edb7b96c46a22392d35a0b77e, type: 3}
-  xis: {fileID: 857959942428899615, guid: bc6f9f29bfaeaee48a20d94a6f1eff7d, type: 3}
+  bolinha: {fileID: 1556226269620307246, guid: 1f23f9f2cbb8e9c47897c628eaa9849d, type: 3}
+  xis: {fileID: 1249158559975872591, guid: 1aac71df5805c864bb1823d5ab0d2a81, type: 3}
   game_controller: {fileID: 1959084804}
   parent_bolinha_and_xis: {fileID: 1820117749}
   x_turn: 1
@@ -1667,8 +1667,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e76dadda9b63e2b45a8803fc77f92228, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bolinha: {fileID: 9045584579708089126, guid: 13db133edb7b96c46a22392d35a0b77e, type: 3}
-  xis: {fileID: 857959942428899615, guid: bc6f9f29bfaeaee48a20d94a6f1eff7d, type: 3}
+  bolinha: {fileID: 1556226269620307246, guid: 1f23f9f2cbb8e9c47897c628eaa9849d, type: 3}
+  xis: {fileID: 1249158559975872591, guid: 1aac71df5805c864bb1823d5ab0d2a81, type: 3}
   game_controller: {fileID: 1959084804}
   parent_bolinha_and_xis: {fileID: 1820117749}
   x_turn: 1
@@ -1870,8 +1870,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e76dadda9b63e2b45a8803fc77f92228, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bolinha: {fileID: 9045584579708089126, guid: 13db133edb7b96c46a22392d35a0b77e, type: 3}
-  xis: {fileID: 857959942428899615, guid: bc6f9f29bfaeaee48a20d94a6f1eff7d, type: 3}
+  bolinha: {fileID: 1556226269620307246, guid: 1f23f9f2cbb8e9c47897c628eaa9849d, type: 3}
+  xis: {fileID: 1249158559975872591, guid: 1aac71df5805c864bb1823d5ab0d2a81, type: 3}
   game_controller: {fileID: 1959084804}
   parent_bolinha_and_xis: {fileID: 1820117749}
   x_turn: 1
@@ -1996,8 +1996,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e76dadda9b63e2b45a8803fc77f92228, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bolinha: {fileID: 9045584579708089126, guid: 13db133edb7b96c46a22392d35a0b77e, type: 3}
-  xis: {fileID: 857959942428899615, guid: bc6f9f29bfaeaee48a20d94a6f1eff7d, type: 3}
+  bolinha: {fileID: 1556226269620307246, guid: 1f23f9f2cbb8e9c47897c628eaa9849d, type: 3}
+  xis: {fileID: 1249158559975872591, guid: 1aac71df5805c864bb1823d5ab0d2a81, type: 3}
   game_controller: {fileID: 1959084804}
   parent_bolinha_and_xis: {fileID: 1820117749}
   x_turn: 1
@@ -2140,8 +2140,8 @@ MonoBehaviour:
   nobody_won: 1
   text_gameobject: {fileID: 271987739}
   won_text: {fileID: 0}
-  bolinha_won_message: O won!
-  xis_won_message: X won!
+  bolinha_won_message: Luan ganhou!
+  xis_won_message: Samuel ganhou!
   linha1: 
   linha2: 
   linha3: 
