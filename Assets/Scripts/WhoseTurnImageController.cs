@@ -8,7 +8,7 @@ public class WhoseTurnImageController : MonoBehaviour
     Image image_component;
     public Sprite x;
     public Sprite o;
-    public bool x_turn = false;
+    public bool x_turn = true;
 
     // Start is called before the first frame update
     void Start()
@@ -19,7 +19,7 @@ public class WhoseTurnImageController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (x_turn)
+        if (!x_turn)
         {
             image_component.sprite = x;
         }
